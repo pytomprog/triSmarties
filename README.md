@@ -1,2 +1,2 @@
 # triSmarties
-J'aime les endives. 
+Projet de Sciences de l'Ingénieur au lycée en première
